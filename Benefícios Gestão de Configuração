@@ -1,0 +1,34 @@
+BENEFÍCIOS DE UMA FERRAMENTA DE GESTÃO DE CONFIGURAÇÃO PARA O TIME DE T.I
+
+A gestão de configuração é um processo fundamental dentro da área de TI, especialmente em ambientes que envolvem infraestrutura complexa, desenvolvimento de software e operações de sistemas. Vamos explorar os benefícios da gestão de configuração para o time de TI:
+
+Controle e Visibilidade dos Ativos de TI:
+
+    - Inventário Atualizado: Mantém um registro preciso de todos os componentes de TI, como hardware, software, redes e configurações.
+
+    - Rastreabilidade: Permite saber exatamente qual versão de software, configuração de sistema ou hardware está em uso em cada ambiente.
+
+Consistência e Padronização:
+
+   - Ambientes Homogêneos: Garante que todos os servidores, dispositivos e sistemas estejam configurados de forma consistente, reduzindo erros e inconsistências.
+
+  - Configurações Replicáveis: Facilita a replicação de ambientes (ex.: desenvolvimento, teste, produção) com as mesmas configurações.
+
+Facilita a Resolução de Problemas:
+
+    - Diagnóstico Rápido: Com um histórico de mudanças de configuração, é mais fácil identificar a causa raiz de problemas.
+
+    - Rollback Seguro: Permite reverter alterações de configuração que causaram falhas ou instabilidades.
+
+Melhoria na Segurança:
+
+    - Controle de Mudanças: A gestão de configuração ajuda a monitorar e aprovar alterações, reduzindo riscos de vulnerabilidades.
+
+    - Conformidade com Políticas: Garante que as configurações estejam alinhadas com políticas de segurança e normas regulatórias etc.
+
+Dentre tantos outros benefícios...
+
+Então, A gestão de configuração é um pilar essencial para times de TI, pois traz controle, eficiência, segurança e qualidade aos processos. 
+Ela não só ajuda a evitar problemas, mas também prepara a infraestrutura para crescer e se adaptar às necessidades futuras. 
+Implementar uma boa gestão de configuração é um investimento que traz retorno significativo em termos de produtividade e redução de riscos.
+
